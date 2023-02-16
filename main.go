@@ -1,6 +1,6 @@
 package main
 
-import "IdentityCon/lib"
+import "github.com/deepakrkris/IdentityCon/lib"
 
 
 func main() {
